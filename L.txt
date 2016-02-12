@@ -1,0 +1,3 @@
+this is L.txt file
+
+test del file function in git
